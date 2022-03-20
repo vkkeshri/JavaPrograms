@@ -1,4 +1,4 @@
-package JavaPrograms.JavaPrograms;
+package JavaPrograms;
 
 /**
  * Hello world!

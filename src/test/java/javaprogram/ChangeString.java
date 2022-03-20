@@ -14,5 +14,4 @@ public class ChangeString {
 			System.out.print(s1+" ");
 		}
 	}
-
 }
